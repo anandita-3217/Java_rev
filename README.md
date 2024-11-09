@@ -1,6 +1,6 @@
-# Java Utility Functions
+# Java Revision
 
-This repository contains a collection of utility functions implemented in Java, focusing on **string manipulation** and **numeric problem-solving**. The repository includes three main classes: `Solution`, `NumProb`, and `BasicPrograms`. Each class is designed to perform a set of operations that can be useful in various programming contexts.
+This repository contains a collection of  functions implemented in Java, focusing on **string manipulation**, **numeric problem-solving** and **other basic programs**. The repository includes three main classes: `StringProblems`, `NumProb`, and `BasicPrograms`. Each class is designed to perform a set of operations that can be useful in various programming contexts, for last minute java programming revision. 
 
 ---
 
