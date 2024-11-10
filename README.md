@@ -1,6 +1,6 @@
 # Java Revision
 
-This repository contains a collection of  functions implemented in Java, focusing on **string manipulation**, **numeric problem-solving** and **other basic programs**. The repository includes three main classes: `StringProblems`, `NumProb`, `BasicPrograms` and `Patterns`. Each class is designed to perform a set of operations that can be useful in various programming contexts, for last minute java programming revision. 
+This repository contains a collection of  functions implemented in Java, focusing on **string manipulation**, **numeric problem-solving** and **other basic programs**. The repository includes the main classes: `StringProblems`, `NumProb`, `BasicPrograms` and `Patterns`. Each class is designed to perform a set of operations that can be useful in various programming contexts, for last minute java programming revision. 
 
 ---
 
