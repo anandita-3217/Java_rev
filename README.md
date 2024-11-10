@@ -63,3 +63,85 @@ The `BasicPrograms` class provides the following additional functionalities:
    - **Description**: Checks if a character is a vowel or consonant.
 
 ---
+### Patterns Class
+
+The `Patterns` class provides functions to print various patterns of stars and numbers:
+
+1. **StarRightTriangle**
+   - **Description**: Prints a right-aligned triangle of stars.
+   - **Example**:
+     ```
+     *
+     * *
+     * * *
+     * * * *
+     ```
+
+2. **StarLeftTriangle**
+   - **Description**: Prints a left-aligned triangle of stars.
+   - **Example**:
+     ```
+           *
+         * *
+       * * *
+     * * * *
+     ```
+
+3. **NumPyramid**
+   - **Description**: Prints a pyramid of numbers incrementally from the top row down.
+   - **Example**:
+     ```
+         1
+       2 3 2
+     3 4 5 4 3
+     ```
+
+4. **RevPyramid**
+   - **Description**: Prints a reverse pyramid of stars.
+   - **Example**:
+     ```
+     *******
+      *****
+       ***
+        *
+     ```
+
+5. **Pyramid**
+   - **Description**: Prints an upright pyramid of stars.
+
+6. **UpperStarTriangle**
+   - **Description**: Prints an upper triangle of stars.
+
+7. **SpiralMatrix**
+   - **Description**: Fills a square matrix with numbers in a spiral order.
+   - **Example** (for `n = 3`):
+     ```
+     1 2 3
+     8 9 4
+     7 6 5
+     ```
+
+8. **Diamond**
+   - **Description**: Prints a diamond shape with stars.
+
+9. **DownwardRightTriangle**
+   - **Description**: Prints a right triangle pointing downward.
+
+10. **DownwardPyramidMirror**
+    - **Description**: Prints a mirrored downward pyramid pattern.
+
+11. **PascalsTriangle**
+    - **Description**: Prints Pascal's triangle up to `n` rows.
+
+12. **HollowRectangle**
+    - **Description**: Prints a hollow rectangle with specified dimensions.
+
+13. **HollowSquare**
+    - **Description**: Prints a hollow square with stars around the edges.
+
+14. **SquareWithDiagonals**
+    - **Description**: Prints a square pattern with diagonals filled in with stars.
+
+15. **FlippedRightTriangle**
+    - **Description**: Prints a right triangle with flipped alignment.
+---
