@@ -47,6 +47,13 @@ public class NumericProblems {
         String sentence = words.stream().collect(Collectors.joining(" "));
         System.out.println(sentence);
 
+        // FInd the first non repeated character in String
+        String str = "swiss";
+        Character res = str.chars().mapToObj(c -> (char) c).filter(ch->str.indexOf(ch) == str.lastIndexOf(ch)).findFirst().orElse(null);
+        System.out.println(res);
+
+        // 
+
 
     }
 }
