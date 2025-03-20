@@ -10,7 +10,7 @@ public class NumericProblems {
     
     
     public static void main(String[] args) {
-        // NumericProblems np = new NumericProblems();
+        
         // Print a list using lambda experssions
         List<String> names = Arrays.asList("Alice","Bob","Charlie");
         names.forEach(name-> System.out.println(name));
