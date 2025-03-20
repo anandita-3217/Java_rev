@@ -138,6 +138,8 @@ The `Patterns` class provides functions to print various patterns of stars and n
 
 13. **HollowSquare**
     - **Description**: Prints a hollow square with stars around the edges.
+### Problems Class
+    - Problems solved using  
 
 14. **SquareWithDiagonals**
     - **Description**: Prints a square pattern with diagonals filled in with stars.
@@ -145,3 +147,26 @@ The `Patterns` class provides functions to print various patterns of stars and n
 15. **FlippedRightTriangle**
     - **Description**: Prints a right triangle with flipped alignment.
 ---
+### Problems Class
+
+The `Problems` class contains implementations of various programming problems and exercises, leveraging Java's functionality to solve common algorithmic challenges. This class includes:
+
+- **Stream and Lambda Operations**: Demonstrates the use of Java Streams API and lambda expressions for data processing.
+- **Collection Manipulations**: Shows techniques for working with lists, maps, and sets.
+- **String Processing**: Implements various string manipulation techniques using modern Java features.
+- **Functional Programming**: Showcases functional programming concepts applied to solve common problems.
+- **Algorithmic Solutions**: Includes implementations of algorithms like finding duplicates, palindromes, and prime numbers.
+
+The class provides solutions to problems such as:
+- Finding the first non-repeated character in a string
+- Removing duplicates from collections
+- Filtering elements based on conditions
+- Sorting and grouping data
+- Flattening nested collections
+- Calculating statistical values (sum, average, min, max)
+- Identifying palindromic strings
+- Partitioning data into categories
+- Processing infinite streams with limitations
+- Extracting sublists from collections
+
+These implementations demonstrate modern Java programming techniques and can serve as reference examples for solving similar problems in various applications.
